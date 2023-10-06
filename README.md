@@ -1,7 +1,7 @@
 ![MasterHead](https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif)
 <h1 align="center">Hi 👋, I'm BENSOUDANE Yousef</h1>
 <h3 align="center">Bioinformatics & Data science</h3>
-<img align="right" alt="Coding" width="400" src="https://www.avnet.com/wps/wcm/connect/onesite/2bc09816-e42e-4b7b-933d-62b7bb366ddb/IoT-Infographic-animation-update-1530x601.gif?MOD=AJPERES&CACHEID=ROOTWORKSPACE.Z18_NA5A1I41L0ICD0ABNDMDDG0000-2bc09816-e42e-4b7b-933d-62b7bb366ddb-ohStJit">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*jIgXVRU-sAwbEVlSJi7NUw.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefbens&label=Profile%20views&color=0e75b6&style=flat" alt="yousefbens" /> </p>
