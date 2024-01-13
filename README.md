@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefbens&label=Profile%20views&color=0e75b6&style=flat" alt="yousefbens" /> </p>
 
-- 🔭 I’m currently working on **IOT, système embarqué and Data science Project**
+- 🔭 I’m currently working on **signal and image processing Project**
 
-- 🌱 I’m currently learning **IA**
+- 🌱 I’m currently learning **Computer vision**
 
 - 💬 Ask me about **Any Thing you need**
 
