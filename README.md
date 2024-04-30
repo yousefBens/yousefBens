@@ -1,5 +1,5 @@
 ![MasterHead](https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif)
-<h1 align="center">Hi 👋, I'm BENSOUDANE Yousef</h1>
+<h1 align="center">Hi, I'm BENSOUDANE Yousef</h1>
 <h3 align="center">IOT & Data science</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*dAuDqKLg40RUKsiOqL5iLA.gif">
 
