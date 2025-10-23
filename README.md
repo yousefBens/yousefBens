@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Embedded Artificial Intelligence**
 
-- 🌱 I’m currently learning **signal processing and Radars*
+- 🌱 I’m currently learning **signal processing and Radars**
 
 - 💬 Ask me about **Any Thing you need**
 
