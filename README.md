@@ -62,13 +62,7 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
 <div align="center">
 
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=yousefbens&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbens&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefbens&theme=tokyonight"
   />
 
 </div>
@@ -78,8 +72,29 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
 <div align="center">
 
   <img
-    width="600"
-    src="https://streak-stats.demolab.com?user=yousefbens&theme=tokyonight&hide_border=true"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefbens&theme=tokyonight"
+  />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousefbens&theme=tokyonight"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousefbens&theme=tokyonight"
+  />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousefbens&theme=tokyonight&utcOffset=1"
   />
 
 </div>
