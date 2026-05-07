@@ -1,49 +1,69 @@
-# 🛠️ Technologies & Domains
+<h1 align="center">Hi 👋, I'm BENSOUDANE Yousef</h1>
+
+<h3 align="center">
+FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
+</h3>
+
+---
+
+## 🛠️ Technologies & Domains
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/>
+      <br><b>C</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/>
+      <br><b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/>
+      <br><b>AI</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/FPGA-00599C?style=for-the-badge&logo=xilinx&logoColor=white" alt="FPGA"/>
+      <br><b>FPGA</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logoColor=white" alt="VHDL"/>
+      <br><b>VHDL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Zephyr-RTOS-00A9E0?style=for-the-badge&logoColor=white" alt="Zephyr"/>
+      <br><b>Zephyr</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/AI-Embedded%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Embedded AI"/>
+      <br><b>Embedded AI</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/RADAR-Signal%20Processing-red?style=for-the-badge" alt="Radar"/>
+      <br><b>RADAR</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/SDR-RF%20Systems-2E8B57?style=for-the-badge" alt="SDR"/>
+      <br><b>SDR</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousefbens&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbens&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- Programming -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
-
-<br><br>
-
-<!-- Embedded / RTOS -->
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<img src="https://cdn.worldvectorlogo.com/logos/zephyr-1.svg"
-alt="Zephyr"
-width="55"
-height="55"/>
-
-<br><br>
-
-<!-- AI -->
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<br><br>
-
-<!-- FPGA / VHDL -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Xilinx_logo.svg"
-alt="FPGA"
-width="120"
-height="55"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/VHDL_Logo.svg"
-alt="VHDL"
-width="65"
-height="55"/>
-
-<br><br>
-
-<!-- Radar / SDR -->
-<img src="https://cdn-icons-png.flaticon.com/512/8902/8902558.png"
-alt="Radar"
-width="60"
-height="60"/>
-
-<img src="https://cdn-icons-png.flaticon.com/512/1042/1042390.png"
-alt="Signal Processing"
-width="60"
-height="60"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefbens&theme=tokyonight&hide_border=true" />
 </p>
