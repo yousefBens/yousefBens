@@ -64,7 +64,7 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
     <td colspan="2" align="center">
       <img
         width="900"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefbens&theme=aura"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefbens&theme=nord_bright"
       />
     </td>
   </tr>
@@ -73,13 +73,13 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
     <td align="center">
       <img
         width="430"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefbens&theme=aura"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefbens&theme=nord_bright"
       />
     </td>
     <td align="center">
       <img
         width="430"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousefbens&theme=aura"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousefbens&theme=nord_bright"
       />
     </td>
   </tr>
@@ -88,13 +88,13 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
     <td align="center">
       <img
         width="430"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousefbens&theme=aura"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousefbens&theme=nord_bright"
       />
     </td>
     <td align="center">
       <img
         width="430"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousefbens&theme=aura&utcOffset=1"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousefbens&theme=nord_bright&utcOffset=1"
       />
     </td>
   </tr>
