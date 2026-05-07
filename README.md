@@ -59,21 +59,6 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=yousefbens&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbens&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-
-</p>
-
-<br>
 
 <p align="center">
 
