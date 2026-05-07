@@ -59,8 +59,7 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
 
 ## 📊 GitHub Statistics
 
-
-<p align="center">
+<p align="center" width="120">
 
   <img
     width="65%"
