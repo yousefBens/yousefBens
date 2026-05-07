@@ -10,46 +10,46 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/>
       <br><b>C</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/>
       <br><b>C++</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python"/>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="AI"/>
       <br><b>AI</b>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/FPGA-00599C?style=for-the-badge&logo=xilinx&logoColor=white" alt="FPGA"/>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/FPGA-00599C?style=flat-square&logo=xilinx&logoColor=white" width="90" height="28" alt="FPGA"/>
       <br><b>FPGA</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logoColor=white" alt="VHDL"/>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/VHDL-4B0082?style=flat-square&logoColor=white" width="90" height="28" alt="VHDL"/>
       <br><b>VHDL</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Zephyr-RTOS-00A9E0?style=for-the-badge&logoColor=white" alt="Zephyr"/>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/Zephyr-RTOS-00A9E0?style=flat-square&logoColor=white" width="90" height="28" alt="Zephyr"/>
       <br><b>Zephyr</b>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/AI-Embedded%20AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Embedded AI"/>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/AI-Embedded-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" width="90" height="28" alt="Embedded AI"/>
       <br><b>Embedded AI</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/RADAR-Signal%20Processing-red?style=for-the-badge" alt="Radar"/>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/RADAR-DSP-red?style=flat-square" width="90" height="28" alt="RADAR"/>
       <br><b>RADAR</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/SDR-RF%20Systems-2E8B57?style=for-the-badge" alt="SDR"/>
+    <td align="center" width="140">
+      <img src="https://img.shields.io/badge/SDR-RF-2E8B57?style=flat-square" width="90" height="28" alt="SDR"/>
       <br><b>SDR</b>
     </td>
   </tr>
