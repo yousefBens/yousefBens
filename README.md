@@ -59,46 +59,43 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        width="900"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefbens&theme=tokyonight"
+      />
+    </td>
+  </tr>
 
-  <!-- Profile Details -->
-  <img
-    width="90%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yousefbens&theme=tokyonight"
-  />
+  <tr>
+    <td align="center">
+      <img
+        width="430"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefbens&theme=tokyonight"
+      />
+    </td>
+    <td align="center">
+      <img
+        width="430"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousefbens&theme=tokyonight"
+      />
+    </td>
+  </tr>
 
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <img
-    width="40%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yousefbens&theme=tokyonight"
-  />
-
-  <img
-    width="40%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yousefbens&theme=tokyonight"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Stats -->
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousefbens&theme=tokyonight"
-  />
-
-  <img
-    width="32%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousefbens&theme=tokyonight&utcOffset=1"
-  />
-
-</div>
+  <tr>
+    <td align="center">
+      <img
+        width="430"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yousefbens&theme=tokyonight"
+      />
+    </td>
+    <td align="center">
+      <img
+        width="430"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yousefbens&theme=tokyonight&utcOffset=1"
+      />
+    </td>
+  </tr>
+</table>
