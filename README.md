@@ -59,11 +59,11 @@ FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
 
 ## 📊 GitHub Statistics
 
-<p align="center" width="120">
+<td align="center" width="120">
 
   <img
     width="65%"
     src="https://streak-stats.demolab.com?user=yousefbens&theme=tokyonight&hide_border=true"
   />
 
-</p>
+</td>
