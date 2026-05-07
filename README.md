@@ -1,122 +1,125 @@
-![MasterHead](https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif)
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi, I'm BENSOUDANE Yousef</h1>
+<h1 align="center">Hi 👋, I'm BENSOUDANE Yousef</h1>
 
 <h3 align="center">
-Embedded AI Engineer | FPGA Developer | Radar & Signal Processing Enthusiast
+Embedded AI Engineer • FPGA Developer • Radar & SDR Enthusiast
 </h3>
 
-<img align="right" alt="Coding" width="420"
-src="https://miro.medium.com/v2/resize:fit:1400/1*dAuDqKLg40RUKsiOqL5iLA.gif">
+<p align="center">
+Specialized in FPGA Systems, Embedded AI, Signal Processing, Zephyr RTOS and IoT Technologies
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yousefbens&label=Profile%20Views&color=0e75b6&style=flat" alt="yousefbens" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousefbens&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
 ---
 
-### 🚀 About Me
+<!-- ================= BANNER ================= -->
 
-- 🔭 Currently working on **Embedded Artificial Intelligence & FPGA Systems**
-- 🧠 Exploring **Radar Signal Processing & SDR Technologies**
-- ⚡ Developing real-time systems with **Zephyr RTOS**
-- 📡 Working on **IoT, LoRaWAN, Edge AI and Embedded Systems**
-- 🛠️ Interested in **FPGA acceleration, AI for Radar applications and High-Speed Communication**
-- 💬 Ask me about **FPGA, Embedded AI, SDR, Signal Processing, Zephyr RTOS and IoT**
+<p align="center">
+  <img 
+    src="https://miro.medium.com/v2/resize:fit:1400/1*dAuDqKLg40RUKsiOqL5iLA.gif"
+    width="700"
+    alt="Embedded AI"
+  />
+</p>
 
 ---
 
-### 🌐 Connect With Me
+# 🚀 About Me
 
-<p align="left">
+- 🔭 Working on **Embedded Artificial Intelligence**
+- ⚡ Developing **FPGA-based Systems**
+- 📡 Exploring **Radar Signal Processing & SDR**
+- 🧠 Building real-time applications with **Zephyr RTOS**
+- 🌐 Working with **IoT, LoRaWAN and Edge AI**
+- 🛠️ Interested in **AI acceleration and High-Speed Embedded Systems**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
 <a href="https://linkedin.com/in/yousef-bensoudane" target="blank">
-<img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-alt="LinkedIn"
-height="30"
-width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+# 🛠️ Technologies & Tools
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-</a>
+<!-- Embedded / FPGA -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
+<br><br>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-</a>
+<!-- OS / Dev -->
+<img src="https://skillicons.dev/icons?i=linux,git,docker" />
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
+<br><br>
 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
-</a>
+<!-- AI / Data -->
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-</a>
+<br><br>
 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-alt="scikit_learn"
-width="45"
-height="45"/>
-</a>
-
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-alt="matlab"
-width="45"
-height="45"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-alt="postgresql"
-width="45"
-height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-alt="mysql"
-width="45"
-height="45"/>
-</a>
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
 </p>
 
 ---
 
-### 📊 GitHub Statistics
+# 📡 Main Technical Domains
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefbens&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-  alt="yousefbens" />
+
+<img src="https://img.shields.io/badge/FPGA-VHDL%20%7C%20Verilog-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded%20AI-TinyML%20%7C%20EdgeAI-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Radar-Signal%20Processing-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RTOS-Zephyr-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-LoRaWAN%20%7C%20SDR-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=yousefbens&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefbens&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousefbens&show_icons=true&locale=en&theme=tokyonight"
-  alt="yousefbens" />
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=yousefbens&theme=tokyonight&hide_border=true"
+/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefbens&theme=tokyonight"
-  alt="yousefbens" />
-</p>
+---
+
+# ⚙️ Current Focus
+
+```text
+FPGA • Embedded AI • SDR • Radar • Signal Processing • Zephyr RTOS • IoT
