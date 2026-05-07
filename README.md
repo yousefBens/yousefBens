@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm BENSOUDANE Yousef</h1>
 
 <h3 align="center">
-FPGA Developer • Embedded AI • Zephyr RTOS • Radar & Signal Processing
+FPGA Engineer • Zephyr RTOS • Embedded AI • Radar & Signal Processing
 </h3>
 
 ---
